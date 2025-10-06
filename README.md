@@ -5,4 +5,6 @@
 #### Foco: *PHP | MySQL | Bootstrap | TypeScript*
 #### Interesse em: *Backend | Cibersegurança*
 
-![PHP](/img/php)
+<img src="/img/php.png" width="100px" height="100px" />
+
+<img src="/img/mysql.jpg" width="100px" height="100px" />
