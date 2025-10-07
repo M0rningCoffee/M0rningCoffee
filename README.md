@@ -1,10 +1,10 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=M0rningCoffee&show_icons=true&theme=tokyonight)
 
-##🎓
+## Formação 🎓
 ### Estudante de Análise e Desenvolvimento de Sistemas - Fatec SCS 
 ### & Técnico de Desenvolvimento de Sistemas - Etec JK
 
-##⚙️
+## Stack Principal ⚙️
 #### Foco: *PHP | MySQL | Bootstrap | TypeScript*
 #### Interesse em: *Backend | Cibersegurança*
 
