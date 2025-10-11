@@ -13,7 +13,7 @@ _____________________________
 #### Foco: *PHP | MySQL | Bootstrap | API REST*
 #### Interesse em: *Backend | Cibersegurança*
 
-<img src="/img/php.png" width="120px" height="120px" /> <img src="/img/Mysql.png" width="100px" height="100px" /> 
+<img src="https://cdn.simpleicons.org/php/777BB4" height="90" alt="php logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
