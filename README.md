@@ -10,7 +10,7 @@ _____________________________
 ### & Técnico de Desenvolvimento de Sistemas - Etec JK
 _____________________________
 ## Stack Principal ⚙️
-#### Foco: *PHP | MySQL | Bootstrap | API REST*
+#### Foco: *PHP | MySQL | API REST*
 #### Interesse em: *Backend | Cibersegurança*
 
 <img src="https://cdn.simpleicons.org/php/777BB4" height="90" alt="php logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
