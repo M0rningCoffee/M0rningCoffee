@@ -13,7 +13,7 @@ _____________________________
 ### & Técnico de Desenvolvimento de Sistemas - Etec JK
 _____________________________
 ## Stack Principal ⚙️
-#### Foco: *PHP | MySQL | Laravel | React Native |Python | API REST*
+#### Foco: *PHP | MySQL | Laravel | React Native | Python | API REST*
 #### Interesse em: *Backend e Engenharia de Dados*
 
 <img src="https://cdn.simpleicons.org/php/777BB4" height="90" alt="php logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />  <img src="/laravel-svgrepo-com.svg" height="80" alt="laravel logo" />  
