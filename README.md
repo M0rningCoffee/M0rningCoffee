@@ -2,9 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-vinicius-j-lima)
 _____________________________
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=M0rningCoffee&show_icons=true&theme=tokyonight)
-_____________________________
 ## Atuação 💻
 ### Estagiário em Análise de Dados e Automação @ Banco do Brasil
 _____________________________
