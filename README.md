@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-vinicius-j-lima)
 _____________________________
 ## Atuação 💻
-### Estagiário em Análise de Dados e Automação @ Banco do Brasil
+### Estagiário em Engenharia & Análise de Dados @ Banco do Brasil
 _____________________________
 ## Formação 🎓
 ### Estudante de Análise e Desenvolvimento de Sistemas - Fatec SCS 
